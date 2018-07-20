@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import logo from "./logo.svg";
 import data from "./todos.json";
-// import Checkbox from "./Checkbox";
 import AddTodo from "./AddTodo";
 import "./App.css";
 import UUID from "uuid/v4";
